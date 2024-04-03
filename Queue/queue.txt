@@ -1,0 +1,5 @@
+1-Implementation of a queue using a singly linked list
+2- Implementation of a circular queue using a singly linked list
+3-implementation of a queue using an array 
+4- implementation of a circular queue using an array
+5-Implement Queue using Stack
