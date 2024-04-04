@@ -5,7 +5,7 @@
  ============================================================================
  */
 
-//1- Deletion of a node from Linked List (from beginning, end, specified position)
+//2- Deletion of a node from Linked List (from beginning, end, specified position)
 #include <stdio.h>
 #include <stdlib.h>
 
